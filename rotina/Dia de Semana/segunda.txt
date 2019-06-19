@@ -1,0 +1,3 @@
+Manhã : Aula
+Tarde : Estudar Banco de Dados
+Noite : Jogar
